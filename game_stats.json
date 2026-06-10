@@ -1,0 +1,26 @@
+{
+  "games_played": 1,
+  "games_won": 1,
+  "total_attempts": 3,
+  "best_attempt": 3,
+  "best_score": 85,
+  "by_difficulty": {
+    "EASY": {
+      "wins": 1,
+      "plays": 1
+    },
+    "MEDIUM": {
+      "wins": 0,
+      "plays": 0
+    },
+    "HARD": {
+      "wins": 0,
+      "plays": 0
+    },
+    "EXPERT": {
+      "wins": 0,
+      "plays": 0
+    }
+  },
+  "last_played": "2026-06-10T21:08:17.912039"
+}

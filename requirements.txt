@@ -1,0 +1,8 @@
+# Number Guessing Game - Requirements
+# No external dependencies required - pure Python!
+# Requires Python 3.7 or higher
+
+# The following are optional development tools:
+# pytest>=6.0  # For running unit tests (if tests are added)
+# pylint>=2.0  # For code linting
+# black>=21.0  # For code formatting
